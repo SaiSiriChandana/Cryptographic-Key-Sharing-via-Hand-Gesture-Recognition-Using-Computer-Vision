@@ -1,0 +1,17 @@
+# Ignore Python cache
+__pycache__/
+*.py[cod]
+
+# Ignore environment files (optional if using virtual envs)
+*.env
+
+# Ignore key and QR code
+key.txt
+key_qr.png
+
+# Ignore JSON files containing user or encrypted data (optional)
+encrypted_messages.json
+users.json
+
+# Ignore output folder if you move them
+outputs/
